@@ -28,7 +28,7 @@ I’m fluent in the languages of the cloud and the web:
 
 ![Sajal's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sajalregmi&theme=github)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajalregmi&theme=dark)
-![Sajal's GitHub Contributions Snake](https://github.com/sajalregmi/sajalregmi/blob/output/github-contribution-grid-snake.svg)
+![Sajal's GitHub Contributions Snake](https://github.com/sajalregmi/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
