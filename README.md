@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there, I'm Sajal Regmi 👋
 
-<!--
-**sajalregmi/sajalregmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Engineer** with a passion for architecting and building high-performance, scalable applications. From **Enterprise Applications** to **AI-driven solutions**, I design robust systems that power cutting-edge software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do:
+
+- 🛠 **Architect & Design:** Crafting scalable **microservice architectures**
+
+- 🤖 **AI Innovator:** Currently working on a **multi-agent AI application** that's breaking new ground in how agents collaborate and solve complex problems autonomously.
+
+- 💡 **Tech Enthusiast:** Whether it's building resilient APIs or optimizing cloud infrastructure, I'm always focused on efficiency and scalability.
+
+---
+
+## 🛠 Tech Mastery:
+
+I’m fluent in the languages of the cloud and the web:
+
+- **Cloud & DevOps:** AWS (Lambda, EC2, S3, ElastiCache ), Docker and Kubernetes
+- **Back-end:** Node.js (Express), Django, REST APIs, Microservices
+- **Front-end:** React, Vue.js, TypeScript
+- **Databases:** MySQL, Neo4j, MongoDB
+- **Others:** Message Brokrage ( Rabbit MQ ), Caching Mechanisms ( Redis )
+
+## 📊 GitHub Stats:
+
+![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajalregmi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalregmi&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajalregmi&theme=dark)
+
+
+---
+
+## 🔗 Find Me On:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sajalregmi)  
+Feel free to connect with me on **LinkedIn** for collaborations or just to geek out about tech!
+
+---
+
+⭐️ "Design is not just what it looks like, design is how it looks." 
