@@ -26,7 +26,7 @@ I’m fluent in the languages of the cloud and the web:
 
 ## 📊 GitHub Stats:
 
-![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajalregmi&show_icons=true&theme=dark)
+![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajalregmi&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalregmi&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajalregmi&theme=dark)
 
