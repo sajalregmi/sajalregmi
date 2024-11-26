@@ -2,12 +2,13 @@
 
 I'm a **Full-Stack Engineer** with a passion for architecting and building high-performance, scalable applications. From **Enterprise Applications** to **AI-driven solutions**, I design robust systems that power cutting-edge software.
 
-# Open Source Contribution
+### Open Source Contribution
 - [GPT Semantic Cache](https://www.npmjs.com/package/gpt-semantic-cache)
 - [React Native Markdown Content Editor](https://www.npmjs.com/package/react-native-markdown-content-editor)
 
-# Research Work
+### Research Work
 - [Semantic Caching of LLM Responses ( Pre Print )](https://arxiv.org/pdf/2411.05276)
+
 
 ---
 
