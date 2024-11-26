@@ -2,6 +2,8 @@
 
 I'm a **Full-Stack Engineer** with a passion for architecting and building high-performance, scalable applications. From **Enterprise Applications** to **AI-driven solutions**, I design robust systems that power cutting-edge software.
 
+# Open Source Contribution
+![GPT Semantic Cache](https://www.npmjs.com/package/gpt-semantic-cache)
 ---
 
 ## 🚀 What I Do:
