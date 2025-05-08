@@ -10,7 +10,6 @@ I'm a **Full-Stack Engineer** with a passion for architecting and building high-
 - [Ins And Outs Of A True Micro-Service](https://lecturely.ai/blogs/A_True_Micro_Service_Architecture)
 - [Developing a Native Bridge IOS and React Native](https://lecturely.ai/blogs/Developing-a-Native-Bridge-Between-IOS-and-React-Native)
 - [Handling Message Failures On Distributed Systems](https://lecturely.ai/blogs/Handling-Message-Failures-On-Distributed-Systems)
-- 
 
 ### Research Work
 - [Semantic Caching of LLM Responses ( Pre Print )](https://arxiv.org/pdf/2411.05276)
