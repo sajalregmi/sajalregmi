@@ -5,8 +5,10 @@ I'm a **Full-Stack Engineer** with a passion for architecting and building high-
 ### Open Source Contribution
 - [GPT Semantic Cache](https://www.npmjs.com/package/gpt-semantic-cache)
 - [React Native Markdown Content Editor](https://www.npmjs.com/package/react-native-markdown-content-editor)
+  
 
 ### Blogs
+- [Understanding & Building Transformer From Scratch ](https://arkios.ai/blog/6945f99ef05b167684906de6)
 - [Ins And Outs Of A True Micro-Service Architecture](https://lecturely.ai/blogs/A_True_Micro_Service_Architecture)
 - [Developing a Native Bridge IOS and React Native](https://lecturely.ai/blogs/Developing-a-Native-Bridge-Between-IOS-and-React-Native)
 - [Handling Message Failures On Distributed Systems](https://lecturely.ai/blogs/Handling-Message-Failures-On-Distributed-Systems)
